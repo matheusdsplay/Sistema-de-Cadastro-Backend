@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Saudação</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Olá, {{ nome }}!</h1>
+        <a href="{{ url_for('home') }}" class="btn-voltar">Voltar</a>
+    </div>
+</body>
+</html>

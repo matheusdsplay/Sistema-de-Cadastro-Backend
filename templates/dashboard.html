@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Painel do Usuário</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao Painel, {{ nome }}!</h1>
+        <a href="{{ url_for('home') }}" class="btn-voltar">Sair</a>
+    </div>
+</body>
+</html>
