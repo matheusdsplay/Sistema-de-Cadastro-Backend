@@ -24,8 +24,8 @@ Este é um projeto simples de backend em Python usando Flask e SQLite, que permi
 
 1. **Clone este repositório:**
    bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/matheusdsplay/Sistema-de-Cadastro-Backend.git
+   cd Sistema-de-Cadastro-Backend
    
 
 2. **Instale as dependências:**
