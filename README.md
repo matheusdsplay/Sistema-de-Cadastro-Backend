@@ -41,14 +41,6 @@ Este é um projeto simples de backend em Python usando Flask e SQLite, que permi
 4. **Acesse no navegador:**
    http://localhost:5000/
 
-## Rotas Principais
-
-- `/` — Página inicial de login
-- `/register` — Página de cadastro de usuário
-- `/dashboard/<nome>` — Painel do usuário logado
-- `/users` — API para listar/criar usuários (GET/POST)
-- `/users/<id>` — API para atualizar/deletar usuário (PUT/DELETE)
-
 ## Observações
 
 - As senhas são armazenadas de forma segura usando hash.
