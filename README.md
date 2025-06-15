@@ -40,19 +40,6 @@ Este é um projeto simples de backend em Python usando Flask e SQLite, que permi
 
 4. **Acesse no navegador:**
    http://localhost:5000/
-   
-
-## Estrutura de Pastas
-projeto-backend/
-│
-├── app.py
-├── users.db
-├── static/
-│   └── style.css
-└── templates/
-    ├── index.html
-    ├── register.html
-    └── dashboard.html
 
 ## Rotas Principais
 
